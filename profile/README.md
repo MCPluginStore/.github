@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Wir entwickeln Plugins für Minecraft!
+
 Besuch uns doch [hier](https://mcpluginstore.de)!
 
 <!--
